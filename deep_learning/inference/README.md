@@ -1,0 +1,1 @@
+The API inference service is in backend/app/services/sign_model.py. It requires a trained checkpoint; no fabricated webcam predictions are shown. A camera preview is available in the browser UI.
